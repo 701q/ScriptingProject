@@ -22,7 +22,7 @@ public class ScopeAndAccessModifiers : MonoBehaviour
     }
 
 
-    void Example(int pens, int crayons)
+    void Example (int pens, int crayons)
     {
         int answer;
         answer = pens * crayons * alpha;
